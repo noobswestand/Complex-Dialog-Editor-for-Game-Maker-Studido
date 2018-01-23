@@ -1,0 +1,78 @@
+Make it so that you can do scripts before text nodes
+	very special case
+
+make it so that an empty convo throughs an error + does not export
+
+
+
+navigate in the options menu with arrow keys
+
+
+example:
+	test using without quotes string - bug in forum
+
+
+Changed
+	scr_npcDialogCommands()
+	event_user(0) of objNPC
+	create evnet of NPC
+
+
+
+Make it so you can exclude options in switch nodes if a condition isn't met
+	-built in variables
+		VAR=5, VAR>5, etc
+	-scripts
+		SCR()
+
+
+Script Node
+	-Make it so you can do &&'s or ||'s (exclusively)
+
+
+
+
+Fixes:
+	Fixed some stuff with saving+loading being funky
+	Fixed some export errors with scripts being attached to switch nodes
+
+
+
+add [hsvO=xxx]
+
+
+
+make it so script if's can do > < >= <=
+
+
+
+
+http://imgur.com/a/vvZI5
+https://www.reddit.com/r/gamemaker/comments/3bfr1k/dialog_tree_editor_update_2/
+
+
+
+
+
+
+that the dialog should be able to switch through npc's
+
+
+
+
+
+
+
+make more orginzation features
+	-choregraph
+
+
+make use of > < >= <=
+	-make export smartly do it
+		-    >2  will make it tie options 3+ to one exit
+
+
+
+-make auto-arrange option
+stricter switch and check
+	

@@ -1,0 +1,3 @@
+[text]
+text[0,0]=[speed=1]Hello
+[config]
